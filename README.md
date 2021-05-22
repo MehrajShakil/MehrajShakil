@@ -1,3 +1,6 @@
 ### Hi there 👋
 
-<h3> Connect with me </h3>
+
+![MehrajShakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehrajShakil&show_icons=true&theme=synthwave)
+
+
